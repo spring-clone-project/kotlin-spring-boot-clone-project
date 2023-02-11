@@ -7,5 +7,6 @@ import org.springframework.boot.runApplication
 class RealworldKotlinApplication
 
 fun main(args: Array<String>) {
+    
     runApplication<RealworldKotlinApplication>(*args)
 }
